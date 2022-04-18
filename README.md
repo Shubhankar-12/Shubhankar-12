@@ -14,7 +14,7 @@
 ## :sassy_man:  About me
 - :school: I am a 2nd year student at `VIT Bhopal`
 - :computer: I am a competitive programmer mainly at `CodeChef`
-- 🖥️ I am a Web Developer
+- 🖥️ I am a `Web Developer`
 - 🧑‍🎓 I’m currently learning: `Computer Science` and `Software Engineering`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1ajr3JpnWn95MAbnZmkbGg4Z_7KUKZUIQ/view?usp=sharing).
 - :nerd_face: Always `learning new things`
