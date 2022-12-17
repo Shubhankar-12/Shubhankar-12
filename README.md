@@ -151,7 +151,8 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Shubhankar-12"><img alt="Shubhankar-12's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shubhankar-12&custom_title=Shubhankar-12's%20Contribution%20Graph&theme=react-dark" /></a>
+  [![Shubh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shubhankar-12)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
   <br/>
 
 
