@@ -151,8 +151,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shubhankar-12&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shubhankar-12&theme=dracula)
   <br/>
 
 
