@@ -152,7 +152,7 @@
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
 
-![Github Activity Graph]([<url from step 5>](https://github-readme-activity-graph.shubh-shubhanka.repl.co/graph?username=Shubhankar-12)
+![Github Activity Graph]([https://github-readme-activity-graph.shubh-shubhanka.repl.co](https://github-readme-activity-graph.shubh-shubhanka.repl.co/graph?username=Shubhankar-12)
   <br/>
 
 
