@@ -152,7 +152,7 @@
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
 
-[![Shubh's github activity graph](https://github-readme-activity-graph.shubh-shubhanka.repl.co/graph?username=Shubhankar-12&theme=dracula)](https://github-readme-activity-graph.shubh-shubhanka.repl.co/graph?username=Shubhankar-12)
+[![Shubh's github activity graph](https://github-readme-activity-graph.shubh-shubhanka.repl.co/graph?username=Shubhankar-12&theme=tokyo-night)](https://github-readme-activity-graph.shubh-shubhanka.repl.co/graph?username=Shubhankar-12)
   <br/>
 
 
