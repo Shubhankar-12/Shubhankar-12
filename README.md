@@ -152,7 +152,7 @@
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
 
- <a href="https://github.com/Shubhankar-12"><img alt="Shubhankar-12's Activity Graph" src="https://github-readme-activity-graph.shubh-shubhanka.repl.co/graph?username=Shubhankar-12&custom_title=Shubhankar-12's%20Contribution%20Graph&theme=react-dark" /></a>
+![Github Activity Graph]([<url from step 5>](https://github-readme-activity-graph.shubh-shubhanka.repl.co/graph?username=Shubhankar-12)
   <br/>
 
 
