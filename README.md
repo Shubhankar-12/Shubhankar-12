@@ -12,7 +12,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a 2nd year student at `VIT Bhopal`
+- :school: I am a 3rd year student at `VIT Bhopal`
 - :computer: I am a competitive programmer mainly at `CodeChef`
 - 🖥️ I am a `Web Developer`
 - 🧑‍🎓 I’m currently learning: `Computer Science` and `Software Engineering`.
