@@ -16,7 +16,7 @@
 - :computer: I am a competitive programmer mainly at `CodeChef`
 - 🖥️ I am a `Web Developer`
 - 🧑‍🎓 I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1enuxUOGH-nDu5yJWI9C9J6DDaA-VHMYo/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/169WkEG2VoRr6vl5IGDFgCPKBEr-8wrzbSP9LSeZHtlU/edit?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 <br>
